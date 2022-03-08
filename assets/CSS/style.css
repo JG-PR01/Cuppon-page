@@ -1,6 +1,10 @@
 body {
     font-family: 'Roboto', sans-serif;
+    color: #212529;
 }
 .card {
     width: 18rem;
+}
+.card-body h5 {
+    color: #707070;
 }
